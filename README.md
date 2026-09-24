@@ -3,6 +3,8 @@
 Desenvolver uma página web simples, organizada e responsiva para representar uma ONG e facilitar o acesso dos visitantes às informações sobre seus projetos e formas de participação.
 
 O site permite conhecer a proposta da organização, visualizar projetos sociais e acessar um formulário para cadastro de voluntários e interessados em realizar doações.
+🌐 Projeto online:
+https://xjunior-tavaresx.github.io/ong-juntos-por-um-futuro-melhor/
 
 💻 Tecnologias utilizadas
 HTML5
